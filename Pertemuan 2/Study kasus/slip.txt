@@ -1,0 +1,18 @@
+-----------------------------------------------------
+|                 SLIP PEMBELIAN                    |
+|                     MAKANAN                       |
+-----------------------------------------------------
+
+Nama Customer      : DINAL
+Item Yang Dipesan  :
+|1. Ayam Geprek    |@0
+|2. Ayam Goreng    |@0
+|3. Udang Goreng   |@0
+|4. Cumi Goreng    |@0
+|5. Ayam Bakar     |@125000
+Total Pembayaran   : 103000
+
+----------------------------------------------------
+|                 TERIMAKASIH ATAS                  |
+|                    PESANANNYA                     |
+-----------------------------------------------------
